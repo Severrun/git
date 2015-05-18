@@ -1,0 +1,121 @@
+span{
+    color:chartreuse;
+}
+div.topline_full {
+    background: #33485D;
+    height: 40px;
+    min-width: 1002px;
+}
+div, tr, td, th, img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: left;
+}
+div {
+    display: block;
+}
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: "Roboto", Arial, "Helvetica CY", "Nimbus Sans L", sans-serif;
+    color: #3c3c3c;
+}
+.rel {
+    position: relative !important;
+}
+.w1280 {
+    max-width: 1280px;
+    margin: 0 auto;
+    min-width: 1002px;
+}
+.top_block {
+    width: 240px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+iv.main_entreg_block {
+    position: relative;
+    padding: 0px 15px;
+    line-height: 38px;
+    height: 40px;
+    font-size: 14px;
+    color: #656565;
+}
+.fright {
+    float: right;
+    text-decoration: none;
+}
+.fright:hover{
+    color:chartreuse;
+    font-weight: bold;
+    text-decoration: none;
+}
+a {
+    color: #0b84d9;
+    text-decoration: underline;
+    outline: none;
+}
+div.main_entreg_block {
+    position: relative;
+    padding: 0px 15px;
+    line-height: 38px;
+    height: 40px;
+    font-size: 14px;
+}
+
+div.log_block {
+    height: 134px;
+    border-bottom: 1px solid #CBCBCB;
+    padding: 5px 15px 0px 15px;
+    position: absolute;
+    z-index: 1;
+}
+
+div.log_block input[type=text], div.log_block input[type=password] {
+    height: 28px;
+    width: 190px;
+    padding: 0px 10px;
+    margin: 1px 0 11px;
+    color: #323232;
+}
+div.log_block input {
+    border: 1px solid #DADADA;
+    border-top: 1px solid #C4C4C4;
+    border-left: 1px solid #C4C4C4;
+    border-right: 1px solid #F4F4F4;
+    border-bottom: 1px solid #F4F4F4;
+    border-radius: 0px;
+    padding: 0px;
+    color: #C2C2C2;
+    font-family: Arial;
+    font-size: 14px;
+}
+.rel {
+    position: relative !important;
+}
+input[type=password] {
+    height: 28px;
+    width: 190px;
+    padding: 0px 10px;
+    margin: 1px 0 11px;
+    color: #323232;
+}
+div.log_block div.enterblock {
+    height: 34px;
+    margin-top: 4px;
+}
+div.log_block div.enterblock input.btn {
+    width: 78px;
+    padding-bottom: 3px;
+    background-position: right top;
+    font-size: 14px;
+    border: none;
+}
+input.btn.onlyblue {
+    background: #3598db;
+    color: #fff;
+}

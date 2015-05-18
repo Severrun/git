@@ -1,0 +1,138 @@
+2015/05/03 10:26:24 [emerg] 6796#4992: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 10:43:55 [emerg] 4440#4184: invalid location modifier "*~" in C:\nginx/conf/nginx.conf:43
+2015/05/03 11:13:01 [emerg] 6872#6948: invalid location modifier "*~" in C:\nginx/conf/nginx.conf:43
+2015/05/03 17:20:21 [emerg] 3604#4280: invalid location modifier "*~" in C:\nginx/conf/nginx.conf:43
+2015/05/03 17:20:22 [emerg] 4800#7744: invalid location modifier "*~" in C:\nginx/conf/nginx.conf:43
+2015/05/03 17:20:23 [emerg] 5664#2516: invalid location modifier "*~" in C:\nginx/conf/nginx.conf:43
+2015/05/03 17:21:22 [emerg] 6552#1672: invalid location modifier "*~" in C:\nginx/conf/nginx.conf:43
+2015/05/03 17:22:00 [notice] 6824#6532: signal process started
+2015/05/03 17:22:00 [error] 6824#6532: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/03 17:22:54 [notice] 8036#7108: signal process started
+2015/05/03 17:22:54 [error] 8036#7108: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/03 17:24:39 [emerg] 1912#5984: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:08 [emerg] 4420#3408: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:42 [emerg] 6260#5100: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:43 [emerg] 1512#4112: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:44 [emerg] 7412#7856: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:44 [emerg] 1992#4012: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:45 [emerg] 6728#1136: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:46 [emerg] 4312#4240: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:47 [emerg] 6716#1176: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:48 [emerg] 7288#5608: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:49 [emerg] 7852#5848: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:50 [emerg] 8024#1664: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:51 [emerg] 6796#6120: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:25:52 [emerg] 4580#5684: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:35:04 [notice] 6476#2680: signal process started
+2015/05/03 17:35:04 [error] 6476#2680: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/03 17:36:32 [emerg] 2412#1040: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:41:08 [emerg] 1244#7992: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:41:41 [emerg] 7508#6016: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:44:05 [emerg] 660#6896: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:47:26 [emerg] 2820#7832: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 17:53:59 [emerg] 6148#5976: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 18:03:23 [emerg] 3656#5912: bind() to 0.0.0.0:8000 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 18:04:41 [notice] 7972#1936: signal process started
+2015/05/03 18:04:44 [notice] 6120#7676: signal process started
+2015/05/03 18:04:44 [emerg] 1136#4524: bind() to 0.0.0.0:8000 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 18:05:05 [notice] 6312#4492: signal process started
+2015/05/03 18:05:11 [notice] 1684#6648: signal process started
+2015/05/03 18:05:11 [emerg] 7420#3952: bind() to 0.0.0.0:8000 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 18:12:08 [emerg] 4660#4892: unknown log format "main" in C:\nginx/conf/nginx.conf:41
+2015/05/03 18:12:10 [emerg] 8172#1792: unknown log format "main" in C:\nginx/conf/nginx.conf:41
+2015/05/03 18:13:10 [emerg] 1972#7140: unknown log format "main" in C:\nginx/conf/nginx.conf:41
+2015/05/03 18:13:34 [emerg] 6260#6740: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 18:14:27 [notice] 5388#3460: signal process started
+2015/05/03 18:14:28 [emerg] 6688#2316: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 18:15:13 [notice] 6780#3296: signal process started
+2015/05/03 18:15:13 [error] 6780#3296: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/03 18:16:12 [notice] 2984#8072: signal process started
+2015/05/03 18:16:12 [error] 2984#8072: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/03 18:16:39 [notice] 6932#1248: signal process started
+2015/05/03 18:16:39 [emerg] 7704#64: bind() to 0.0.0.0:8000 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 18:17:45 [notice] 2200#8136: signal process started
+2015/05/03 18:17:45 [emerg] 7704#64: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/03 18:18:57 [notice] 5460#7404: signal process started
+2015/05/03 18:18:57 [emerg] 7704#64: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/04 01:26:57 [emerg] 856#7748: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/04 22:45:32 [emerg] 4660#2576: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/04 22:46:44 [emerg] 6844#2084: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/04 22:47:28 [emerg] 7632#7216: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/04 22:53:57 [emerg] 6996#5828: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/04 22:53:59 [notice] 3720#7432: signal process started
+2015/05/04 22:53:59 [error] 3720#7432: OpenEvent("Global\ngx_stop_7704") failed (2: The system cannot find the file specified)
+2015/05/04 22:54:01 [emerg] 6516#6216: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/05 19:41:46 [emerg] 7704#3636: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/05/05 19:43:54 [notice] 6376#4112: signal process started
+2015/05/05 19:43:54 [error] 6376#4112: OpenEvent("Global\ngx_stop_7704") failed (2: The system cannot find the file specified)
+2015/05/05 19:48:16 [notice] 6332#6776: signal process started
+2015/05/05 19:50:30 [notice] 7128#2620: signal process started
+2015/05/05 19:56:13 [notice] 5632#5092: signal process started
+2015/05/05 19:56:14 [notice] 6700#6824: signal process started
+2015/05/05 19:56:14 [error] 6700#6824: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 19:56:15 [notice] 4892#2476: signal process started
+2015/05/05 19:56:15 [error] 4892#2476: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 19:57:19 [notice] 4488#5468: signal process started
+2015/05/05 19:59:06 [notice] 5496#4308: signal process started
+2015/05/05 20:02:14 [notice] 2500#4560: signal process started
+2015/05/05 20:02:55 [notice] 80#6032: signal process started
+2015/05/05 20:12:40 [notice] 7656#6620: signal process started
+2015/05/05 20:16:28 [notice] 4652#2844: signal process started
+2015/05/05 20:20:06 [notice] 2888#4088: signal process started
+2015/05/05 20:20:08 [notice] 7312#6392: signal process started
+2015/05/05 20:20:25 [notice] 1932#6568: signal process started
+2015/05/05 20:20:25 [error] 1932#6568: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 20:20:40 [notice] 8020#6200: signal process started
+2015/05/05 20:20:40 [error] 8020#6200: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 20:20:42 [notice] 6196#2716: signal process started
+2015/05/05 20:20:42 [error] 6196#2716: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 20:20:43 [notice] 7776#6028: signal process started
+2015/05/05 20:20:43 [error] 7776#6028: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 20:20:56 [notice] 2672#2740: signal process started
+2015/05/05 20:20:56 [error] 2672#2740: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 20:21:09 [notice] 7412#6156: signal process started
+2015/05/05 20:21:11 [notice] 7460#7644: signal process started
+2015/05/05 20:21:11 [error] 7460#7644: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 20:21:18 [notice] 2128#5644: signal process started
+2015/05/05 20:35:55 [notice] 4896#6776: signal process started
+2015/05/05 20:35:55 [error] 4896#6776: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 20:35:57 [notice] 1492#7784: signal process started
+2015/05/05 20:35:57 [error] 1492#7784: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/05 20:36:58 [notice] 5668#2968: signal process started
+2015/05/05 20:40:10 [notice] 7276#6272: signal process started
+2015/05/05 20:41:07 [error] 6692#7944: *7 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/music/1.mp3" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /music/1.mp3 HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/music.html"
+2015/05/05 20:41:07 [error] 6692#7944: *7 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/music/1.mp3" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /music/1.mp3 HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/music.html"
+2015/05/05 20:44:32 [notice] 308#4548: signal process started
+2015/05/05 20:45:24 [error] 868#576: *69 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/news.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /news.html HTTP/1.1", host: "localhost:8083"
+2015/05/06 14:05:24 [notice] 4500#4208: signal process started
+2015/05/06 14:05:26 [notice] 4104#1672: signal process started
+2015/05/06 14:05:26 [error] 4104#1672: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/06 14:05:27 [notice] 8132#5236: signal process started
+2015/05/06 14:05:27 [error] 8132#5236: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/05/07 19:00:17 [error] 4716#5420: *38 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:01:23 [error] 4716#5420: *38 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:43 [error] 4716#5420: *126 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:45 [error] 4716#5420: *126 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:46 [error] 4716#5420: *126 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:46 [error] 4716#5420: *126 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:47 [error] 4716#5420: *126 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:47 [error] 4716#5420: *126 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:47 [error] 4716#5420: *126 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:48 [error] 4716#5420: *126 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:48 [error] 4716#5420: *126 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/07 19:02:48 [error] 4716#5420: *125 CreateFile() "C:/Users/tyr/WebstormProjects/untitled1/image/10.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /image/10.jpeg HTTP/1.1", host: "localhost:8083", referrer: "http://localhost:8083/ne"
+2015/05/08 16:11:37 [notice] 2612#7812: signal process started
+2015/05/10 15:35:27 [notice] 2732#5832: signal process started
+2015/05/15 12:54:43 [notice] 2992#968: signal process started
+2015/05/16 12:22:17 [error] 7432#4172: *46 CreateFile() "C:/Users/alex/WebstormProjects/Bigprogram/git/regcomp.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /regcomp.html HTTP/1.1", host: "localhost", referrer: "http://localhost/registration.html"
+2015/05/16 12:31:29 [error] 7432#4172: *86 CreateFile() "C:/Users/alex/WebstormProjects/Bigprogram/git/regcomp.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /regcomp.html HTTP/1.1", host: "localhost", referrer: "http://localhost/registration.html"
+2015/05/16 12:34:11 [error] 7432#4172: *93 CreateFile() "C:/Users/alex/WebstormProjects/Bigprogram/git/regcomp.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /regcomp.html HTTP/1.1", host: "localhost", referrer: "http://localhost/registration.html"
+2015/05/16 12:34:17 [error] 7432#4172: *93 CreateFile() "C:/Users/alex/WebstormProjects/Bigprogram/git/regcomp.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /regcomp.html HTTP/1.1", host: "localhost", referrer: "http://localhost/registration.html"
+2015/05/16 12:59:56 [notice] 7584#7488: signal process started
+2015/05/18 08:41:28 [error] 7004#5872: *230 CreateFile() "C:/Users/alex/WebstormProjects/Bigprogram/git/sffdfdfjdhf.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /sffdfdfjdhf.html HTTP/1.1", host: "localhost"
+2015/05/18 08:42:01 [error] 7004#5872: *230 CreateFile() "C:/Users/alex/WebstormProjects/Bigprogram/git/registrati.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /registrati.html HTTP/1.1", host: "localhost"
+2015/05/18 08:46:18 [error] 7004#5872: *310 CreateFile() "C:/Users/alex/WebstormProjects/Bigprogram/git/djnndn.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /djnndn.html HTTP/1.1", host: "localhost"
+2015/05/18 08:48:14 [error] 7004#5872: *335 CreateFile() "C:/Users/alex/WebstormProjects/Bigprogram/git/kjkhg.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /kjkhg.html HTTP/1.1", host: "localhost"
+2015/05/18 08:49:12 [error] 7004#5872: *344 CreateFile() "C:/Users/alex/WebstormProjects/Bigprogram/git/mnbvbnm.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /mnbvbnm.html HTTP/1.1", host: "localhost"
+2015/05/18 10:04:00 [error] 5312#5628: *50 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8000/", host: "localhost"
+2015/05/18 19:18:55 [error] 2116#3700: *1 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8000/", host: "localhost"
