@@ -1,4 +1,8 @@
 body
 {
     background-image: url(pictures/background1.jpg);
+    cursor: url(pictures/cursor_1.cur), url(pictures/cursor_2.cur), default;
+}
+h1{
+    color: chartreuse;
 }

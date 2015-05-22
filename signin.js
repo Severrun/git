@@ -1,7 +1,7 @@
 var sign = function(pathname)
 {
     var string
-    if (pathname == "registration" ||pathname== "404" || pathname=="regcomp") string = "";
+    if (pathname == "registration" || pathname== "404" || pathname=="regcomp") string = "";
     else string = '<body>'+
         '<div class = "topline_full">'+
             '<div class = "w1280 rel">'+
