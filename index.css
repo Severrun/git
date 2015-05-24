@@ -5,11 +5,11 @@ body {
     margin: 0;
     font: 14px/1.4 Arial,Helvetica,Sans-serif;
     -webkit-font-smoothing: antialiased;
-    cursor: url(pictures/cursor33.png), progress !important;
+    cursor: url(pictures/cursor4.png), progress !important;
 }
-a {cursor: url(pictures/cursor33.png), progress !important;}
+a {cursor: url(pictures/cursor14.png), progress !important;}
 
-input {cursor: url(pictures/cursor33.png), progress !important;}
+input {cursor: url(pictures/cursor14.png), progress !important; }
 .info {
 
     font-size: 14px;
